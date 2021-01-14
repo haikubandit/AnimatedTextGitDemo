@@ -11,4 +11,4 @@ const internalId = setInterval(function () {
     for (const letter of letters) {
         letter.style.color = randomRGB();
     }
-}, 1000);
+}, 2000);
